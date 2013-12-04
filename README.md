@@ -1,3 +1,7 @@
+bitcoin-to-buttcoin
+=============
+Gag Chrome extension that is just a modified version of [panicsteve's cloud-to-butt plugin](https://github.com/panicsteve/cloud-to-butt/)
+
 cloud-to-butt
 =============
 
