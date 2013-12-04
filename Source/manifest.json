@@ -1,5 +1,5 @@
 {
-	"manifest_version": 1,
+	"manifest_version": 2,
 	"name": "Bitcoin To Buttcoin",
 	"version": "1.0",
 	"description": "Replaces the text 'Bitcoin' with 'Buttcoin'.  Copied from Cloud-to-Butt",
