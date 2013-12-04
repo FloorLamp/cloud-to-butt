@@ -2,6 +2,26 @@ bitcoin-to-buttcoin
 =============
 Gag Chrome extension that is just a modified version of [panicsteve's cloud-to-butt plugin](https://github.com/panicsteve/cloud-to-butt/)
 
+extension icon is from [buttcoins.org](buttcoins.org)
+
+## chrome store link:
+mine:
+https://chrome.google.com/webstore/detail/bitcoin-to-buttcoin/opdmmmpiahddjnfogimkmmgmmhkbalol
+
+
+someone else's (who apparently made it already):
+https://chrome.google.com/webstore/detail/bitcoin-to-buttcoin/gebbpaadmjjlgjnnljckibmmgkmckdng
+
+## to install from source
+looks like chrome now doesn't like unsafe local installs, so...
+
+1. [download the zip](https://github.com/jamesonjlee/cloud-to-butt/blob/master/BitButtcoin.zip)
+2. unzip to your favorite place
+3. navigate chrome to [chrome://extensions](chrome://extensions)
+4. click "Load unpacked extension"
+5. Navigate to your favorite place, click select
+6. Enjoy butts
+
 cloud-to-butt
 =============
 
