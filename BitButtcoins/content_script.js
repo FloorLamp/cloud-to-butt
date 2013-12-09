@@ -30,11 +30,13 @@ function walk(node)
 function handleText(textNode) 
 {
 	var v = textNode.nodeValue;
-
+    if v.lower in ["bitcoin", "bitcoins"
 	v = v.replace(/\bBitcoin\b/g, "Buttcoin");
-	v = v.replace(/\bBitcoins\b/g, "Buttcoins");
 	v = v.replace(/\bbitcoin\b/g, "buttcoin");
-	v = v.replace(/\bbitcoins\b/g, "buttcoins");
+    v = v.replace(/\bLitecoin\b/g, "LiteButtcoin");
+    v = v.replace(/\blitecoin\b/g, "liteButtcoin");
+    v = v.replace(/\bPeercoin\b/g, "PeerButtcoin");
+    v = v.replace(/\bpeercoin\b/g, "peerButtcoin");
 	//v = v.replace(/\bthe Cloud\b/g, "my Butt");
 	//v = v.replace(/\bthe cloud\b/g, "my butt");
 	
