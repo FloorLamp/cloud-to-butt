@@ -30,7 +30,6 @@ function walk(node)
 function handleText(textNode) 
 {
 	var v = textNode.nodeValue;
-    if v.lower in ["bitcoin", "bitcoins"
 	v = v.replace(/\bBitcoin\b/g, "Buttcoin");
 	v = v.replace(/\bbitcoin\b/g, "buttcoin");
     v = v.replace(/\bLitecoin\b/g, "LiteButtcoin");
