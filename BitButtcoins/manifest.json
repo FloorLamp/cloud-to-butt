@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Bitcoin To Buttcoin",
-	"version": "1.2",
+	"version": "1.3",
 	"description": "Replaces the text 'Bitcoin' with 'Buttcoin'.  Copied from Cloud-to-Butt, now covers more coins",
 	"content_scripts": 
 	[
